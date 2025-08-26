@@ -23,6 +23,7 @@
 make
 ./server <port>
 ./client <port>
+```
 
 ---
 
@@ -49,6 +50,7 @@ make
 
 # 클라이언트 실행
 ./client
+```
 
 ---
 
@@ -76,6 +78,7 @@ make
 
 # 터미널 3: 클라이언트 실행
 ./client
+```
 
 ---
 
@@ -101,7 +104,7 @@ make
 
 # 클라이언트 실행
 ./client
-
+```
 ---
 
 ## HW5: Primary–Follower 복제 UDP Key-Value Store
@@ -133,5 +136,5 @@ make
 
 # 터미널 4: 클라이언트 실행
 ./client
-
+```
 
